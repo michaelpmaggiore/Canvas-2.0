@@ -1,0 +1,33 @@
+TITLE:
+Michael Maggiore, Section E
+Project name: Colorado School of Mine's Grade Booklet
+
+PROBLEM DESCRIPTION:
+You can track each students' assignment grade and
+have more control over your students' grade and what
+they need to improve on. I created a program that stores
+the teacher's students' information into a neat format so that they
+can easily access it and see where their students are at.
+
+PROBLEM DOCUMENTATION:
+To run this program, use your makefile and compile this code 
+follow the instructions that are on the screen.
+You can create a student, class, and assignment for
+each individual student.
+
+
+DATA STRUCTURE:
+I utilizes vectors and stored multiple objects as a student,
+class, and assignment.
+I stored the user's students into a vector list.
+
+TESTS:
+I first tested the name, class name, assignment name, were all correct.
+This was by using strings, specifically inserting valid strings and getting correct results of the file being obtained properly within each private member function.
+
+
+REFLECTIONS:
+I learned how to utilize vectors and manipulate classes
+by creating objects within each other, and storing them
+as an object pointer.
+

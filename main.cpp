@@ -1,10 +1,7 @@
-/* CSCI 261: Final Project
+/* The Gradebook
  *
  * Author: XXXX Michael Maggiore
- * Resources used (Office Hours, Tutoring, Other Students, etc & in what capacity):
- *     // list here any outside assistance you used/received while following the
- *     // CS@Mines Collaboration Policy and the Mines Academic Code of Honor
- *
+ * 
  * This is a gradebook program that stores the teacher's students
   grades
  */

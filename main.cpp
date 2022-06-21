@@ -17,7 +17,7 @@
 #include "student.h"
 using namespace std;
 
-//Program is perofrming on a 4.0 GPA scale and by default, each class is 3 credits.
+//Program is performing on a 4.0 GPA scale and by default, each class is 3 credits.
 int main(){
     vector<Student*> listStudent;
     ifstream test;
@@ -51,7 +51,7 @@ int main(){
             cout << "Creating new student..." << endl;
             Student* newStudent = new Student;
             cout << "Name of student: ";
-            cin >> userName;
+            getline(cin,userName);
             newStudent->setStudentName(userName);
             cout << "Year of student: [1] [2] [3] [4]";
             cin >> userYear;

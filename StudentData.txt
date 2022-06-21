@@ -1,7 +1,1 @@
-Student name: dwa Year: 1
-Class name: dwa
-Class Type: dwa
-Class Description: dwa
-Assignments: dwa
-Assignment Grade: F
-
+Student name: Michael Year: 0
